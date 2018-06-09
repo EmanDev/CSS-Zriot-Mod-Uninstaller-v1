@@ -34,7 +34,7 @@ Extract it anywhere on your pc.
 
 ## Bugs
 
-Report [here](https://github.com/EmanDev/Counter-Strike--Source-Server-Launcher/issues).
+Report [here](https://github.com/EmanDev/zombie-riot-mod-uninstaller/issues).
 
 ### Programming Language/s Used
 
