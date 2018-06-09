@@ -15,7 +15,7 @@ A tool that is specifically built for Counter-Strike: Source. It is built to rem
 
 ### Releases
 
-Not yet available.
+Check it [here](https://github.com/EmanDev/zombie-riot-mod-uninstaller/releases).
 
 ### Requirements
 
