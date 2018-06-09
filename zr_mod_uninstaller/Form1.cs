@@ -63,12 +63,12 @@ namespace zr_mod_uninstaller
 
         private void metroButton5_Click(object sender, EventArgs e)
         {
-            Process.Start("www.google.com");
+            Process.Start("https://github.com/EmanDev/zombie-riot-mod-uninstaller/issues");
         }
 
         private void metroButton6_Click(object sender, EventArgs e)
         {
-            Process.Start("About");
+            Process.Start("https://github.com/EmanDev/zombie-riot-mod-uninstaller");
         }
     }
 }
