@@ -27,5 +27,10 @@ namespace zr_mod_uninstaller
         {
             this.Close();
         }
+
+        private void metroLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

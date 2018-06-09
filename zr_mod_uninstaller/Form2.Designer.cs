@@ -36,6 +36,7 @@
             this.metroLabel5 = new MetroFramework.Controls.MetroLabel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.metroButton1 = new MetroFramework.Controls.MetroButton();
+            this.metroLabel6 = new MetroFramework.Controls.MetroLabel();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -43,23 +44,25 @@
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(5, 19);
+            this.metroLabel1.Location = new System.Drawing.Point(3, 15);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(231, 19);
+            this.metroLabel1.Size = new System.Drawing.Size(261, 19);
             this.metroLabel1.TabIndex = 0;
-            this.metroLabel1.Text = "This tool is only for Zombie Riot Mod.";
+            this.metroLabel1.Text = "This tool is only for CS:S Zombie Riot Mod.";
             // 
             // metroLabel2
             // 
             this.metroLabel2.AutoSize = true;
-            this.metroLabel2.Location = new System.Drawing.Point(5, 44);
+            this.metroLabel2.Location = new System.Drawing.Point(3, 34);
             this.metroLabel2.Name = "metroLabel2";
             this.metroLabel2.Size = new System.Drawing.Size(345, 19);
             this.metroLabel2.TabIndex = 1;
             this.metroLabel2.Text = "Don\'t use this for other mods, or else problem may occur.";
+            this.metroLabel2.Click += new System.EventHandler(this.metroLabel2_Click);
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.metroLabel6);
             this.groupBox1.Controls.Add(this.metroLabel2);
             this.groupBox1.Controls.Add(this.metroLabel1);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -123,6 +126,15 @@
             this.metroButton1.UseSelectable = true;
             this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
             // 
+            // metroLabel6
+            // 
+            this.metroLabel6.AutoSize = true;
+            this.metroLabel6.Location = new System.Drawing.Point(3, 53);
+            this.metroLabel6.Name = "metroLabel6";
+            this.metroLabel6.Size = new System.Drawing.Size(189, 19);
+            this.metroLabel6.TabIndex = 2;
+            this.metroLabel6.Text = "Restart this app if error occurs.";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -157,5 +169,6 @@
         private MetroFramework.Controls.MetroLabel metroLabel5;
         private System.Windows.Forms.GroupBox groupBox2;
         private MetroFramework.Controls.MetroButton metroButton1;
+        private MetroFramework.Controls.MetroLabel metroLabel6;
     }
 }
