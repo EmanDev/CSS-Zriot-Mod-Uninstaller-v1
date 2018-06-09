@@ -1,0 +1,15 @@
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\zr_mod_uninstaller.exe.config
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\zr_mod_uninstaller.exe
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\zr_mod_uninstaller.pdb
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\MetroFramework.dll
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.csprojAssemblyReference.cache
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.Form1.resources
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.Properties.Resources.resources
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.csproj.GenerateResource.cache
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.csproj.CoreCompileInputs.cache
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.csproj.CopyComplete
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.exe
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.pdb
+C:\Users\Eman Marcaida\source\repos\zr_mod_uninstaller\zr_mod_uninstaller\obj\Debug\zr_mod_uninstaller.Form2.resources
