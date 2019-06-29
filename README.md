@@ -52,7 +52,7 @@ You can edit it yourself without my permision. But please credit me as source/au
 > Changes in this file may get error while using it. If error occur, re-download the archive and extract and replace modified files.
 
 ## Author
-[Emanzz Marcaida](https://github.com/EmanDev)
+[Eman Marcaida](https://github.com/EmanDev)
 
 ## Credits
 
