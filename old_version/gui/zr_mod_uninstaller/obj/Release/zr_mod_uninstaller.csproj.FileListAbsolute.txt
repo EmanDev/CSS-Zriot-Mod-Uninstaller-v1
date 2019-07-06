@@ -1,0 +1,15 @@
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\zr_mod_uninstaller.exe.config
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\zr_mod_uninstaller.exe
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\zr_mod_uninstaller.pdb
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\MetroFramework.Design.dll
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\MetroFramework.dll
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.csprojAssemblyReference.cache
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.Form1.resources
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.Form2.resources
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.Properties.Resources.resources
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.csproj.GenerateResource.cache
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.csproj.CoreCompileInputs.cache
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.csproj.CopyComplete
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.exe
+C:\Users\Eman Marcaida\Documents\GitHub\zombie-riot-mod-uninstaller\zr_mod_uninstaller\obj\Release\zr_mod_uninstaller.pdb
