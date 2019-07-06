@@ -5,7 +5,7 @@ A tool that is specifically built for Counter-Strike: Source. It is built to rem
 ## Features
 
 1. Modern UI.
-2. Supports Light ~~and Dark Theme (Soon)~~.
+2. Supports Light ~~and Dark~~ Theme.
 3. Works both for x86 and x64 bit systems.
 
 ## Status
