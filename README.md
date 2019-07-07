@@ -10,7 +10,7 @@ A tool that is specifically built for Counter-Strike: Source. It is built to rem
 
 ## Status
 
-1. ~~Newly~~ Obsolete released
+1. ~~Newly~~ Obsolete released (version 1.0).
 2. Supports Light Theme only.
 
 ### Releases
