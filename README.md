@@ -1,4 +1,4 @@
-# Zombie Riot Mod Uninstaller
+# Zombie Riot Mod Uninstaller v1.0 - Final
 
 A tool that is specifically built for Counter-Strike: Source. It is built to remove the Zombie Riot Mod in CS:S Dedicated Server.
 
