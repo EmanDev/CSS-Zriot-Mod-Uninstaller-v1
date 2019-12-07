@@ -2,6 +2,9 @@
 
 A tool that is specifically built for Counter-Strike: Source. It is built to remove the Zombie Riot Mod in CS:S Dedicated Server.
 
+## Revision
+Version 2.0 was released check it [here](https://github.com/EmanDev/CSS-Zriot-Mod-Uninstaller-v2) or [Downloads](https://emandev.github.io/CSS-Zriot-Mod-Uninstaller-v2/)
+
 ## Features
 
 1. Modern UI.
